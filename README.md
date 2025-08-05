@@ -20,7 +20,7 @@ It uses Excel features such as:
 
 ## 📸 Dashboard Preview
 
-![Bike Sales Dashboard] Excel Sales Dashboard_Visualization.png
+![Bike Sales Dashboard_Visualization](https://github.com/Adharsh-Reddy-Chirra/Excel-Sales-Dashboard/tree/main)
 
 > *Note: The image above is a preview of the Excel dashboard with interactive filters and charts.*
 
